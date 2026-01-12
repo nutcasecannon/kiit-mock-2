@@ -1,0 +1,10 @@
+AWS - Amazon Web Services
+AWS provides cloud services developed by Amazon.
+It has many services like EC2, S3, IAM, VPC etc.
+This is the most used cloud service provider in the world.
+It is very cost efficient.
+
+Azure
+Azure provides cloud services and is developed by Microsoft.
+It can be integrated with all Microsoft services/apps.
+This is famous for it ML and AI applications.
