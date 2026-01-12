@@ -1,0 +1,8 @@
+Iaas - Infrastructure As A Service
+A cloud service which provides infrastructure like servers and storage to the client.
+
+Paas - Platform As A Service
+A cloud service which provides ready-made environment to deploy and run your application.
+
+Saas - Software As A Service
+A cloud service which provides the entire software or application over internet and manages it as well for you.
