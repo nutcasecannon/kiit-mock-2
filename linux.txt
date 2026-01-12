@@ -1,0 +1,11 @@
+User Management Commands
+
+1. whoami
+2. who
+3. adduser username
+4. su - username
+5. su username
+5. userdel username
+6. userdel -r username
+7. cat /etc/passwd (or) getent passwd
+8. exit
