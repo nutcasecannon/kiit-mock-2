@@ -1,0 +1,12 @@
+Branching Commands
+
+1. git branch
+2. git checkout -b branchname
+3. git checkout branchname
+4. git branch branchname
+5. git switch branchname
+6. git push origin main
+7. git pull origin main
+8. git branch -d branchname (or use -D)
+9. git push aliasname -d branchname
+10. git branch -m oldname newname
